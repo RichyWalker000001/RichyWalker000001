@@ -1,4 +1,4 @@
-## Hi there 👋
+## HI THERE 👋, I AM RICHARD OUMA OLOKO AND I AM PASSIONATE ABOUT MAKING THE MOST OF BUSINESS POLICIES THROUGH A DATA DRIVEN APPROACH
 
 <!--
 **RichyWalker000001/RichyWalker000001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
