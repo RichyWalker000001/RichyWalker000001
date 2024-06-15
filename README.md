@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm RICHARD OUMA OLOKO</h1>
+
 <h3 align="center">An innovative data analyst from Kenya with a keen focus on driving business decisions using a data driven approach</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=richywalker000001&label=Profile%20views&color=0e75b6&style=flat" alt="richywalker000001" /> </p>
