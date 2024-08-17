@@ -8,6 +8,8 @@
 
 - 🔭 I’m currently working on **Kevin's Cookie Company Yearly Sales Analysis**
 
+- 🗓️ I recently completed the following school project [School Research Project](https://docs.google.com/document/d/139IebQegEnTvZD4UEBG6I6zBBbMhhagO/edit?usp=drivesdk&ouid=108762385333557351550&rtpof=true&sd=true)
+  
 - 🌱 I’m currently learning **Pandas, scipy, Machine Learning**
 
 - 👯 I’m looking to collaborate on **Business companies projects with an outlook of delivering data driven policies**
