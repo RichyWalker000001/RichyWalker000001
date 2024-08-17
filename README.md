@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm RICHARD OUMA OLOKO</h1>
+<h1 align="center">Hi 👋, I'm RICHARD OUMA OLOKO </h1>
 
 <h3 align="center">An innovative data analyst from Kenya with a keen focus on driving business decisions using a data driven approach</h3>
 
@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Kevin's Cookie Company Yearly Sales Analysis**
 
-- 🗓️ I recently completed the following school project [School Research Project](https://docs.google.com/document/d/139IebQegEnTvZD4UEBG6I6zBBbMhhagO/edit?usp=drivesdk&ouid=108762385333557351550&rtpof=true&sd=true)
+- 🗓️ I recently completed the following school project [School Research Project](https://docs.google.com/document/d/139IebQegEnTvZD4UEBG6I6zBBbMhhagO/edit?usp=drivesdk&ouid=108762385333557351550&rtpof=true&sd=true) which led to the acquisition of a degree in Mathematics with Computing from the University of Embu, Kenya.
   
 - 🌱 I’m currently learning **Pandas, scipy, Machine Learning**
 
